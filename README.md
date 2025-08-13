@@ -9,7 +9,7 @@ The objective was to clean, transform, and visualize the data to answer football
 
 ## 📂 Tableau Workbook Structure
 
-* **Data Sources** – Raw FIFA 19 player dataset
+* **Data Sources** – Raw FIFA 19 player dataset from `fifa_players.csv` and `fifa_players_statistics.csv`
 * **Dashboards** – Interactive visualizations for player performance and comparisons
 * **Sheets** – Individual charts and analyses, grouped by metric or question
 
@@ -78,6 +78,8 @@ Examined player market values across leagues and positions.
 
 ## 📎 Files in Repository
 
+* `fifa_players.csv` - First raw dataset.
+* `fifa_players_statistics.csv` - Second raw dataset.
 * `FIFA19_PlayerData.twb` – Complete Tableau workbook with all dashboards and visualizations.
 * `README.md` – Project description, methodology, and conclusions (this file).
 
